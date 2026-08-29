@@ -111,3 +111,10 @@ Retrieval-augmented Q&A system over PDF documents — Gemini paired with Hugging
 **Always up for talking AI, ML, or interesting builds — reach out anytime.**
 
 </div>
+
+
+<br>
+
+## 🐍 My Contributions
+
+![Snake animation](https://raw.githubusercontent.com/Code-by-Manik/Code-by-Manik/output/github-contribution-grid-snake.svg)
