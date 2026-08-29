@@ -36,6 +36,7 @@
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white">
 </td></tr>
+
 <tr><td><b>AI / ML & Data</b></td><td>
 <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
 <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
@@ -44,6 +45,7 @@
 <img src="https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black">
 <img src="https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white">
 </td></tr>
+
 <tr><td><b>Tools & Cloud</b></td><td>
 <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white">
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white">
@@ -106,15 +108,18 @@ Retrieval-augmented Q&A system over PDF documents — Gemini paired with Hugging
 
 <br>
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Code-by-Manik/Code-by-Manik/output/github-contribution-grid-snake.svg)
+
+</div>
+
+<br>
+
 <div align="center">
 
 **Always up for talking AI, ML, or interesting builds — reach out anytime.**
 
 </div>
-
-
-<br>
-
-## 🐍 My Contributions
-
-![Snake animation](https://raw.githubusercontent.com/Code-by-Manik/Code-by-Manik/output/github-contribution-grid-snake.svg)
