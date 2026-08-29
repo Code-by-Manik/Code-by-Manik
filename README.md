@@ -108,11 +108,11 @@ Retrieval-augmented Q&A system over PDF documents — Gemini paired with Hugging
 
 <br>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Code-by-Manik/Code-by-Manik/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Code-by-Manik/Code-by-Manik/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Code-by-Manik/Code-by-Manik/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Code-by-Manik/Code-by-Manik/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
